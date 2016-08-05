@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+.yule{width:980px; height:400px;}
+.yule-top{width:980px; height:44px; border-bottom:solid 2px #88cc22;}
+.yule-top .f{float:left;}
+.yule-top .ph{float:right; background:url(../image/video-safe-black.png) no-repeat right center; width:197px; height:43px;}
+.yule-top span{background:url(../image/site-icons-qyIndex.png) no-repeat -120px -1160px;; width:15px; height:25px; margin-right:5px; margin-top:8px;}
+.yule-top h2{font-size:28px; color:#88cc22;}
+.yule-top em{font-size:14px; color:#88cc22; margin-left:10px; margin-top:14px;}
+.yule-top .r{margin-left:5px; font-size:14px; color:#333336; margin-top:16px;}
+.yule-top .l{margin-left:32px;}
+.yule-top strong{width:14px; height:14px; background:url(../image/site-icons-qyIndex.png) no-repeat -140px -1160px; margin-top:20px; margin-left:5px;}
+
+
+.yule-content-right{width:580px; height:325px;}
+.yule-content-right .t{width:580px; height:155px; margin-left:20px;}
+.yule-content-right .m{margin:0 20px;}
+
+.yule-content-right .b{width:580px; height:155px; margin-left:20px; margin-top:15px; margin-bottom:23px;}
+
+.like{width:980px; height:386px; margin-bottom:35px;}
+.like-t{width:980px; height:155px; margin-top:15px;}
+.like-t .r{margin-right:20px;}
+.like-last{width:180px; height:155px; background:#73b400; color:#fff; letter-spacing:2px; font-size:21px; text-align:center; line-height:155px;}
+
+.bill2{width:980px; height:190px; margin-top:40px;}
+.bill2 .header{width:100%; height:22px; border-bottom:#88cc22 1px solid;}
+.bill2 .header p{width:84px; height:22px; text-align:center; line-height:22px; font-size:12px; color:#fff; background:#88cc22;}
+.bill2 .content{width:978px; height:159px; border:#88cc22 1px solid; line-height:159px;}
+.bill2 .content img{vertical-align:middle;}
+.bill2 .content .r{margin-right:11px;}

@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+.wdy{width:980px; height:190px; margin-top:14px;}
+.wdy-top{width:980px; height:40px;}
+.wdy-top .top-l{width:580px; height:39px; border-bottom:1px solid #ddd; line-height:39px;}
+.wdy-top .f{float:left;}
+.wdy-top .top-l h2{font-size:20px; color:#689900; margin-right:10px;}
+.wdy-top .top-l span{background:url(../image/site-icons-qyIndex.png) no-repeat -140px -1160px; width:14px; height:14px; margin:16 5px;}
+.wdy-top .top-l .gd{ color:#689900; font-size:14px; margin-right:30px; margin-top:2px;}
+.wdy-top .top-l .t{color:#333336; font-size:14px; margin-top:2px;}
+
+.wdy-top .top-r{width:380px; height:39px; margin-left:20px;}
+
+.wdy .content{width:980px; height:135px; margin-top:15px;}
+.wdy .content .ph{width:180px; height:135px; background:#f2f2f2; margin-right:20px;}
+.wdy .content .ph a{display:block;}
+.wdy .content .ph .t{font-size:14px; color:#333336; margin-left:5px; margin-top:5px;}
+.wdy .content .last{ margin-right:0;}

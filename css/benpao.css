@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+.benpao{width:980px; height:216px; margin:0 auto; margin-top:5px;}
+.benpao-header{width:980px; height:44px; border-bottom:1px #ddd solid; position:relative;}
+.benpao-header .l{font-size:22px; color:#689900;}
+.benpao-header .r{font-size:14px; margin-left:50px;}
+.benpao-header img{position:absolute; left:180px; top:6px;}
+
+.benpao .photo{width:980px; height:155px; margin-top:15px;}
+.benpao .photo .photo-1{width:180px; height:155px; margin-right:20px;}
+.benpao .photo .photo-1 .text{width:180px; height:54px; background:#f2f2f2;}
+.benpao .photo .photo-1 .text span{margin-top: 3px; margin-left: 3px; float:left; height:19px; width:54px; border:1px solid #ccc; font-size:10px; text-align:center; line-height:19px; background:#fff;}
+.benpao .photo .photo-1 .text a{font-size:14px;}
+
+.benpao .photo .photo-2{margin-right:0px;}
+.benpao .photo .photo-3{position:relative; width:180px; height:101px;}
+
+.tkx{margin-top:10px;}
+.benpao .benpao-header .t{margin-left:6px;}
+
+.bill{margin:50px 0;}

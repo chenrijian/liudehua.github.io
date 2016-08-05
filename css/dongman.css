@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+.dongman{width:980px; height:360px; margin-top:35px;}
+.dongman .top{width:980px; height:39px;}
+.dongman .top div{float:left;}
+.dongman .top .t1{width:580px; height:39px; border-bottom:2px solid #88cc22; line-height:39px;}
+.dongman .top .f{float:left;}
+.dongman .top h2{font-size:20px; color:#689900; margin-right:10px;}
+.dongman .top span{background:url(../image/site-icons-qyIndex.png) no-repeat -140px -1160px; width:14px; height:14px; margin:16px 5px;}
+.dongman .top .gd{ color:#689900; font-size:14px; margin-right:30px; margin-top:2px;}
+.dongman .top .t{color:#333336; font-size:14px; margin-top:2px;}
+.dongman .top em{width: 16px;height: 26px; background: no-repeat url(../image/site-icons-qyIndex.png) -120px -1160px; margin-top: 6px; margin-right: 5px;}
+
+.dongman .top .t2{width:180px; height:39px; border-bottom:2px solid #88cc22; margin:0 20px; line-height:39px;}
+
+.dongman .top .t3{width:180px; height:39px; border-bottom:2px solid #88cc22; line-height:39px;}
+
+.dongman .content{margin-top:30px; width:980px; height:290px;}
+.dongman .content-l{width:380px; height:290px; background:#f2f2f2; margin-right:20px;}
+.dongman .content-l a{font-size:13px; color:#333336; display:block; margin-top:10px; margin-left:5px;}
+
+.dongman .content-r{width:580px; height:290px;}
+.dongman .content-rt{width:580px; height:138px;}
+.dongman .content-r1{width:180px; height:138px; background:#f2f2f2; margin-right:20px;}
+.dongman .content-r1 a{font-size:13px; color:#333336; display:block; margin-top:10px; margin-left:5px;}
+.dongman .content-r2{width:180px; height:138px; background:#f2f2f2;}
+.dongman .content-r2 a{font-size:13px; color:#333336; display:block; margin-top:10px; margin-left:5px;}
+.dongman .content-rb{width:580px; height:138px; margin-top:15px;}
+

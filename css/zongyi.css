@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+.zongyi{width:980px; height:410px; margin:0 auto; margin-top:30px;}
+.zongyi-top{width:980px; height:48px; border-bottom:#73b400 2px solid; line-height:48px;}
+
+.focustitel{font-size:27px; color:#73b400;}
+.zongyi-focus i{display:inline-block;}
+.focustitel2{width:16px; height:26px; background:url(../image/site-icons-qyIndex.png) no-repeat -120px -1160px; margin-right:3px;}
+.focustitel3{font-size:14px;}
+
+.zongyi-ft{margin-left:35px;}
+.zongyi-ft li{float:left; padding-top:5px;}
+.zongyi-ft a{font-size:13px; color:#333336; padding:0 3px; float:left; height:15px;}
+.zongyi-ft i{float:left; height:15px; width:15px; background:url(../image/site-icons-qyIndex.png) no-repeat -140px -1160px; margin-top:18px; margin-right:7px;}
+
+.focustite4{font-size:27px; color:#73b400; width:180px; height:48px;}
+.focustitel5{width:16px; height:26px; background:url(../image/site-icons-qyIndex.png) no-repeat -120px -1160px; margin-top:12px; margin-right:7px;}
+.focustitel6{font-size:14px; margin-left:18px; margin-top:6px;}
+.zongyi-top-photo{margin-left:165px; margin-top:16px;}
+
+
+.zongyi-content{width:980px; height:328px; margin-top:24px;}
+.zongyi-content-left{width:380px; height:328px;}
+.content-left-photo{position:relative; width:380px; height:270px;}
+.tody{position:absolute; left:0px; top:0px;}
+.tody2{position:absolute; right:0px; top:0px; height:40px; width:40px; background:url(../image/site-icons-qyIndex.png) no-repeat -83px -530px;}
+.tody3{position:absolute; left:4px; bottom:4px; height:16px; width:42px; background:#33331f; font-size:9px; text-align:center; line-height:16px; color:#ddd;}
+.tody4{position:absolute; right:4px; bottom:4px; height:16px; width:42px; background:#33331f; font-size:9px; text-align:center; line-height:16px; color:#ddd;}
+
+.zongyi-content-left h2{font-size:14px; color:#333336; margin-bottom:5px;}
+.zongyi-content-left p{font-size:11px; color:#999;}
+.zongyi-content-lt{height:48px; weight:37px; background:#f2f2f2; padding:5px;}
+
+.zongyi-content-middle{width:380px; height:328px; margin:0 20px;}
+.zongyi-content-middle-top{width:380; height:155px;}
+.zongyi-content-middle1{width:180px; height:155px; margin-right:20px;}
+.content-middle-photo{width:170px; height:44px; background:#f2f2f2; padding:5px;}
+.content-middle-photo h2{font-size:14px; color:#333336; margin-bottom:5px;}
+.content-middle-photo p{font-size:11px; color:#999;}
+.zongyi-content-middle2{width:180px; height:155px;}
+
+.zongyi-content-middle-bottom{width:380; height:155px; margin-top:18px;}
+.zongyi-content-middle-photo{width:180px; height:101px; position:relative;}
+.tody5{position:absolute; right:0px; top:0px; height:40px; width:40px; background:url(../image/site-icons-qyIndex.png) no-repeat -103px -1200px;}
+
+.zongyi-content-right{width:180px; height:328px; background:#f2f2f2;}
+.zongyi-content-right h2{margin-top:10px;}
+.zongyi-content-right-header{font-size:14px; color:#333336; margin:14px;}
+.zongyi-content-right-text a{font-size:12px; color:#888;}
+
+.zongyi-content-right-text{width:170px; height:180px; border-top:1px dashed #ccc; margin-top:10px;}
+.zongyi-content-right-text span{width:6px; height:6px; background:url(../image/site-icons-qyIndex.png) no-repeat -200px -700px; margin-top:8px; margin-right:5px;}
+.zongyi-content-right-text li{padding:6px; width:170px; height:16px; margin-bottom:10px;}

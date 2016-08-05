@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+.movie{width:980px; height:654px; margin:0 auto; margin-top:30px;}
+.movie-top{width:980px; height:44px;}
+.movie-top-l{width:780px; height:44px; border-bottom:2px solid #73b400;}
+.movie-top-l .f{float:left;}
+.movie-top-l span{width:16px; height:26px; background:no-repeat url(../image/site-icons-qyIndex.png) -120px -1160px; margin-top:6px; margin-right:5px;}
+.movie-top-l h2{font-size:28px; color:#689900; margin-right:8px;}
+.movie-top-l .gd{font-size:14px; color:#689900; margin-top:14px; margin-right:10px;}
+.movie-top-l .text{width:600px; height:30px; padding-top:14px; margin-left:10px;}
+.movie-top-l .text .l{font-size:14px; color:#666;}
+.movie-top-l .text strong{width:15px; height:15px; background:url(../image/site-icons-qyIndex.png) no-repeat -140px -1160px; margin:0 5px; margin-top:4px;}
+
+.movie-top-r{width:180px; height:44px; border-bottom:2px solid #73b400;}
+.movie-top-r .f{float:left;}
+.movie-top-r span{width:16px; height:26px; background:no-repeat url(../image/site-icons-qyIndex.png) -120px -1160px; margin-top:6px; margin-right:5px;}
+.movie-top-r h2{font-size:28px; color:#689900; margin-right:8px;}
+.movie-top-r .gd{font-size:14px; color:#689900; margin-top:14px;}
+
+.movie .content{width:980px; height:594px; margin-top:10px;}
+.movie .content-t{width:980px; height:290px; margin-top:15px;}
+.movie .content-t1{width:180px; height:290px; background:#f2f2f2; position:relative; margin-right:20px;}
+.movie .content-t1 .p1080{background:rgba(0,0,0,0.4); width:43px; height:16px; text-align:center; line-height:16px; font-size:9px; color:#fff; position:absolute; left:5px; bottom:58px;}
+.movie .content-t1 .f77{font-family:"Arial Black"; font-size:14px; font-weight:bold; color:#f58948; position:absolute; right:5px; bottom:30px;}
+.movie .content-t1 li{color:#999; font-size:12px; margin-top:3px;}
+.movie .content-t1 li a{color:#333336; font-size:14px;}
+.movie .content-t1 ul{margin-top:6px; margin-left:5px;}
+.movie .content-t .last{margin-right:0;}
+
+.movie .content-t2{width:180px; height:290px;}
+.movie .content-t2 .text{width:180px; height:290px;}
+.movie .content-t2 .text li{width:180px; height:20px; line-height:20px;}
+.movie .content-t2 .text em{width:20px; height:20px; background:#73b400; text-align:center; line-height:20px; color:#fff; font-size:12px; margin-right:6px;}
+.movie .content-t2 .text a{font-size:13px; color:#333336;}
+.movie .content-t2 .text strong{width:10px; height:10px; background:url(../image/site-icons-qyIndex.png) no-repeat -0px -769px; margin-top:5px;}
+.movie .content-t2 .text .d2{background-position:-16px -769px;}
+.movie .content-t2 .text .d3{background-position:-32px -769px;}
+.movie .content-t2 .text .d{margin-top:13px;}
+.movie .content-t2 .text .num{background:#aaa;}
